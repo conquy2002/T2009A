@@ -42,3 +42,4 @@ C:\Users\dong\Desktop\T2009A\Ex1\UWP-018\obj\x86\Debug\qualifiers.txt.intermedia
 C:\Users\dong\Desktop\T2009A\Ex1\UWP-018\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\dong\Desktop\T2009A\Ex1\UWP-018\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\dong\Desktop\T2009A\Ex1\UWP-018\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424563200000000.json
+C:\Users\dong\Desktop\T2009A\Ex1\UWP-018\obj\x86\Debug\UWP-018.csproj.AssemblyReference.cache
