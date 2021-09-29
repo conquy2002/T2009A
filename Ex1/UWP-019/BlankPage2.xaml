@@ -8,11 +8,11 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Frame x:Name="MyFrame">
-        <StackPanel>
-            <TextBlock FontSize="48" Text="Page 2"/>
-            <HyperlinkButton Content="Go to page 3" Click="HyperlinkButton_click"/>
-            <HyperlinkButton Content="Go to my facebook" NavigateUri="www.facebook.com/NPhanDong"/>
-        </StackPanel>
-    </Frame>
+
+    <StackPanel>
+        <TextBlock FontSize="48" Text="Page 2"/>
+        <TextBox x:Name="ValueTextBox" Width="200"/>
+        <HyperlinkButton Content="Go to page 3" Click="HyperlinkButton_click"/>
+        <HyperlinkButton Content="Go to my facebook" NavigateUri="www.facebook.com/NPhanDong"/>
+    </StackPanel>
 </Page>

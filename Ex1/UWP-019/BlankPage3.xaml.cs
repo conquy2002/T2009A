@@ -26,5 +26,11 @@ namespace UWP_019
         {
             this.InitializeComponent();
         }
+
+        protected override void OnNavigatedTo(NavigationEventArgs e)
+        {
+            var value = (string)e.Parameter;
+            ValueTextBox.Text = value;
+        }
     }
 }

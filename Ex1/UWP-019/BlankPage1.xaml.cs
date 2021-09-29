@@ -28,7 +28,7 @@ namespace UWP_019
         }
         private void HyperlinkButton_click(object sender, RoutedEventArgs e)
         {
-            MyFrame.Navigate(typeof(BlankPage2));
+            Frame.Navigate(typeof(BlankPage2));
         }
     }
 }
