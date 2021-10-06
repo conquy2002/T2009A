@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dong\\Desktop\\T2009A\\Uw 37\\UWP-038\\UWP-038.csproj": {}
+    "C:\\Users\\dong\\Desktop\\T2009A\\Task6\\UWP-038\\UWP-038.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dong\\Desktop\\T2009A\\Uw 37\\UWP-038\\UWP-038.csproj": {
+    "C:\\Users\\dong\\Desktop\\T2009A\\Task6\\UWP-038\\UWP-038.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dong\\Desktop\\T2009A\\Uw 37\\UWP-038\\UWP-038.csproj",
+        "projectUniqueName": "C:\\Users\\dong\\Desktop\\T2009A\\Task6\\UWP-038\\UWP-038.csproj",
         "projectName": "UWP-038",
-        "projectPath": "C:\\Users\\dong\\Desktop\\T2009A\\Uw 37\\UWP-038\\UWP-038.csproj",
+        "projectPath": "C:\\Users\\dong\\Desktop\\T2009A\\Task6\\UWP-038\\UWP-038.csproj",
         "packagesPath": "C:\\Users\\dong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dong\\Desktop\\T2009A\\Uw 37\\UWP-038\\obj\\",
+        "outputPath": "C:\\Users\\dong\\Desktop\\T2009A\\Task6\\UWP-038\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

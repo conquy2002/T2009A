@@ -8165,11 +8165,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dong\\Desktop\\T2009A\\Uw 37\\UWP-039\\UWP-039.csproj",
+      "projectUniqueName": "C:\\Users\\dong\\Desktop\\T2009A\\Task6\\UWP-039\\UWP-039.csproj",
       "projectName": "UWP-039",
-      "projectPath": "C:\\Users\\dong\\Desktop\\T2009A\\Uw 37\\UWP-039\\UWP-039.csproj",
+      "projectPath": "C:\\Users\\dong\\Desktop\\T2009A\\Task6\\UWP-039\\UWP-039.csproj",
       "packagesPath": "C:\\Users\\dong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dong\\Desktop\\T2009A\\Uw 37\\UWP-039\\obj\\",
+      "outputPath": "C:\\Users\\dong\\Desktop\\T2009A\\Task6\\UWP-039\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
