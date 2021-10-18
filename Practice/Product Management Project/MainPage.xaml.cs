@@ -52,7 +52,7 @@ namespace Product_Management_Project
 
             ProductReults.Text = "";
             DescriptionReults.Text = "";
-            MyCombobox.SelectedItem = -1;
+            MyCombobox.SelectedIndex = -1;
 
             ProductReults.Focus(FocusState.Programmatic);
 

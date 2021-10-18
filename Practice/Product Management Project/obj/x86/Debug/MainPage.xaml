@@ -48,7 +48,7 @@
                 <DataTemplate                       >
                     <StackPanel x:ConnectionId='4' Margin="0,0,10,0">
                         <Image x:ConnectionId='5'                           Width="100" Height="100" Margin="5"/>
-                        <TextBlock x:ConnectionId='6'                         FontSize="14" FontWeight="Bold" Margin="0,0,0,5"/>
+                        <TextBlock x:ConnectionId='6'                         HorizontalAlignment="Center" FontSize="14" FontWeight="Bold" Margin="0,0,0,5"/>
                         <TextBlock x:ConnectionId='7'                             />
                     </StackPanel>
                 </DataTemplate>
