@@ -42,13 +42,13 @@
                         <TextBlock Text="Name" Margin="20" />
                         <TextBox x:ConnectionId='5' Width="200"  Name="addName" Grid.Column="1" VerticalAlignment="Center"/>
                         
-                        <TextBlock Grid.Row="2" Text="Year of Birth" Margin="20"/>
-                        <TextBox x:ConnectionId='6' Width="200" Grid.Row="2"  Name="adđYear" Grid.Column="1" VerticalAlignment="Center"/>
+                        <TextBlock Grid.Row="1" Text="Year of Birth" Margin="20"/>
+                        <TextBox x:ConnectionId='6' Width="200" Grid.Row="1"  Name="adđYear" Grid.Column="1" VerticalAlignment="Center"/>
                         
-                        <TextBlock Grid.Row="3" Text="Link Avt" Margin="20"/>
-                        <TextBox x:ConnectionId='7'  Width="200" Grid.Row="3" Name="addAvt" Grid.Column="1" VerticalAlignment="Center" />
+                        <TextBlock Grid.Row="2" Text="Link Avt" Margin="20"/>
+                        <TextBox x:ConnectionId='7'  Width="200" Grid.Row="2" Name="addAvt" Grid.Column="1" VerticalAlignment="Center" />
                         
-                        <Button x:ConnectionId='8' Grid.Row="4" x:Name="add" Grid.Column="1" Content="Add" Margin="20" FontSize="20"                  />
+                        <Button x:ConnectionId='8' Grid.Row="3" x:Name="add" Grid.Column="1" Content="Add" Margin="20" FontSize="20"                  />
                     </Grid>
                 </Flyout>
             </Button.Flyout>

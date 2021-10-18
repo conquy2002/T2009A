@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\dong\Desktop\T2009A\Task7\Student Manager\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-10-06T09:23:42.334</Modified>
+      <Modified>2021-10-15T06:39:20.095</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\dong\Desktop\T2009A\Task7\Student Manager\bin\x86\Debug\Student Manager.exe">
       <PackagePath>entrypoint\Student Manager.exe</PackagePath>
-      <Modified>2021-10-06T09:23:41.498</Modified>
+      <Modified>2021-10-15T06:39:18.376</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -94,7 +94,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dong\Desktop\T2009A\Task7\Student Manager\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-10-06T09:23:41.269</Modified>
+      <Modified>2021-10-15T06:39:17.585</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -106,7 +106,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dong\Desktop\T2009A\Task7\Student Manager\bin\x86\Debug\Core\Student Manager.exe">
       <PackagePath>Student Manager.exe</PackagePath>
-      <Modified>2021-10-06T09:23:42.326</Modified>
+      <Modified>2021-10-15T06:39:20.074</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
