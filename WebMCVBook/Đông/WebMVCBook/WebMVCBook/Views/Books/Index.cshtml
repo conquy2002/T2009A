@@ -10,7 +10,7 @@
 </p>
 
 <form asp-controller="Books" asp-action="Index" method="get">
-    <select asp-for="BookCategory" asp-items="Model.Category" onchange="chon()" id="chon">
+    <select asp-for="BookCategory" asp-items="Model.Category">
         <option value="">All</option>
     </select>
 
@@ -45,7 +45,7 @@
     <tbody id="bang">
         @foreach (var item in Model.Books)
         {
-            <tr>
+            <tr class="main">
                 <td>
                     <img src="@item.Img" width="80" height="80" />
                 </td>
@@ -71,7 +71,6 @@
                 </td>
             </tr>
         }
+        
     </tbody>
 </table>
-
-

@@ -5,22 +5,24 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using WebMVCBook.Data;
 using WebMVCBook.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace WebMVCBook.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly WebMVCBookContext _context;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(WebMVCBookContext context)
         {
-            _logger = logger;
+            _context = context;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            return View(await _context.Book.ToListAsync());
         }
 
         public IActionResult Privacy()
