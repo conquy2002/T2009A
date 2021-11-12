@@ -151,3 +151,8 @@ C:\Users\dong\Desktop\T2009A\WebMVC\WebMVC\obj\Debug\net5.0\Razor\Views\Movies\D
 C:\Users\dong\Desktop\T2009A\WebMVC\WebMVC\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
 C:\Users\dong\Desktop\T2009A\WebMVC\WebMVC\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
 C:\Users\dong\Desktop\T2009A\WebMVC\WebMVC\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\dong\Desktop\T2009A\WebMVC\WebMVC\obj\Debug\net5.0\Razor\Views\Movies1\Create.cshtml.g.cs
+C:\Users\dong\Desktop\T2009A\WebMVC\WebMVC\obj\Debug\net5.0\Razor\Views\Movies1\Delete.cshtml.g.cs
+C:\Users\dong\Desktop\T2009A\WebMVC\WebMVC\obj\Debug\net5.0\Razor\Views\Movies1\Details.cshtml.g.cs
+C:\Users\dong\Desktop\T2009A\WebMVC\WebMVC\obj\Debug\net5.0\Razor\Views\Movies1\Edit.cshtml.g.cs
+C:\Users\dong\Desktop\T2009A\WebMVC\WebMVC\obj\Debug\net5.0\Razor\Views\Movies1\Index.cshtml.g.cs
