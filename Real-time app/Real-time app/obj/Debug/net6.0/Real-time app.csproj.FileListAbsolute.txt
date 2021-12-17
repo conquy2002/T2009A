@@ -1,0 +1,7 @@
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.csproj.AssemblyReference.cache
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.AssemblyInfoInputs.cache
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.AssemblyInfo.cs
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.csproj.CoreCompileInputs.cache
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.MvcApplicationPartsAssemblyInfo.cache
