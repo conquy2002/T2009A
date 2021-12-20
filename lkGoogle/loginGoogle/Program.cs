@@ -8,10 +8,12 @@ var configuration = builder.Configuration;
 services.AddAuthentication()
     .AddGoogle(googleOptions =>
     {
+        // Đọc thông tin Authentication:Google từ appsettings.json
+        IConfigurationSection googleAuthNSection = configuration.GetSection("Authentication:Google");
 
         // Thiết lập ClientID và ClientSecret để truy cập API google
-        googleOptions.ClientId = configuration["ClientId"];
-        googleOptions.ClientSecret = configuration["ClientSecret"];
+        googleOptions.ClientId = googleAuthNSection["ClientId"];
+        googleOptions.ClientSecret = googleAuthNSection["ClientSecret"];
         // Cấu hình Url callback lại từ Google (không thiết lập thì mặc định là /signin-google)
         googleOptions.CallbackPath = "/login-google";
 
@@ -21,6 +23,13 @@ services.AddAuthentication()
         facebookOptions.AppId = configuration["Authentication:Facebook:AppId"];
         facebookOptions.AppSecret = configuration["Authentication:Facebook:AppSecret"];
         facebookOptions.AccessDeniedPath = "/signin-facebook";
+    })
+    .AddMicrosoftAccount(microsoftOptions =>
+    {
+        microsoftOptions.ClientId = configuration["Authentication:Microsoft:ClientId"];
+        microsoftOptions.ClientSecret = configuration["Authentication:Microsoft:ClientSecret"];
+
+
     });
 // Add services to the container.
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");

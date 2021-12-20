@@ -69,3 +69,4 @@ C:\Users\dong\Desktop\T2009A\lkGoogle\loginGoogle\obj\Debug\net6.0\ref\loginGoog
 C:\Users\dong\Desktop\T2009A\lkGoogle\loginGoogle\obj\Debug\net6.0\loginGoogle.pdb
 C:\Users\dong\Desktop\T2009A\lkGoogle\loginGoogle\obj\Debug\net6.0\loginGoogle.genruntimeconfig.cache
 C:\Users\dong\Desktop\T2009A\lkGoogle\loginGoogle\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\dong\Desktop\T2009A\lkGoogle\loginGoogle\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
