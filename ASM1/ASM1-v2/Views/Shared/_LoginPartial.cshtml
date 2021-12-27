@@ -1,8 +1,14 @@
 ﻿@using Microsoft.AspNetCore.Identity
 @inject SignInManager<IdentityUser> SignInManager
 @inject UserManager<IdentityUser> UserManager
-
-<ul class="navbar-nav">
+<style>
+        .login-reiger{
+            position: absolute;
+    right: 0px;
+;
+        }
+</style>
+<ul class="navbar-nav login-reiger">
 @if (SignInManager.IsSignedIn(User))
 {
     <li class="nav-item">
